@@ -2,7 +2,7 @@
  
   | Name  | Live Demo  |                                                                                                    
 |----------|----------|
-| Free-Games |abdullahgmalabdo.github.io/Free-Games/|
+| Free Games |https://abdullahgmalabdo.github.io/Free-Games/|                                    
 | registration system |https://abdullahgmalabdo.github.io/registration-system/|                                    
 | Bookmarker  |https://abdullahgmalabdo.github.io/Bookmarker/|                                                                          
 | Recipes App  |https://abdullahgmalabdo.github.io/Recipes-App/|
